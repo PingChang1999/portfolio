@@ -12,6 +12,7 @@
 
 ## Personal Projects
 **Projecting MLB Player Wins Above Replacement (WAR)**
+Key Skills: Python, Machine Learning, ETL
 - Developed machine learning models using ridge regression to forecast the Wins Above Replacement (WAR) statistic for baseball players using historical data
 - Utilized PyBaseball library to gather extensive player statistics from Baseball Reference and FanGraphs, followed by thorough data cleaning and preprocessing for accurate player evaluation and model training
 - Enhanced prediction accuracy by incorporating performance data, enabling the model to achieve an accuracy within 0.2 of the standard deviation
