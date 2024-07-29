@@ -6,8 +6,8 @@
   Tandon Onwards Scholarship ; Dean's List
 
 - B.S., Computer Science | New York University (May 2021)  
-  Mathematics Minor
-  GPA: 3.5/4  
+  Mathematics Minor  
+  GPA: 3.5/4
   Dean's List
 
 
@@ -39,3 +39,8 @@
 - Integrated locating monitoring systems by scripting with JavaScript API to provide accurate up-to-date information
 
 [Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
+
+
+# Certifications
+**Relational Database & SQL (Comp-1630-NE4) w/ BCIT
+- Issued June 2024
