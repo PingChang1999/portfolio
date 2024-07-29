@@ -1,11 +1,11 @@
 # Data Engineer / Data Analyst
 
 ## Education
-- M.S., Computer Science | New York University  
+- M.S., Computer Science | New York University (December 2023)  
   GPA: 3.7/4  
   Tandon Onwards Scholarship ; Dean's List
 
-- B.S., Computer Science ; Mathematics Minor | New York University  
+- B.S., Computer Science ; Mathematics Minor | New York University (May 2021)  
   GPA: 3.5/4  
   Dean's List
 
@@ -30,3 +30,11 @@
 - Presented data trends with actionable insight to non-technical audiences by using data visualizations through employing pandas and Matplotlib
 
 [Project Repository](https://github.com/PingChang1999/Transportation-Fare-Prediction-and-Location-Optimization)
+
+**Alzheimer's Patient and Caretaker Connection Application**
+- Developed complex queries and stored procedures using MySQL and Microsoft SQL Server Management Studio to ensure data accuracy and reliability, incorporating database design principles
+- Achieved a 25% improvement in response time for patient and caretaker interactions through optimized data processing, real-time updates, and enhanced communication
+- Utilized and researched advanced data analytics techniques to understand and address data limitations, supporting informed decision-making
+- Integrated locating monitoring systems by scripting with JavaScript API to provide accurate up-to-date information
+
+[Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
