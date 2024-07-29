@@ -1,3 +1,4 @@
 title: Ping Chang
-#show_downloads: true
+description: Hello!
+show_downloads: true
 theme: jekyll-theme-minimal
