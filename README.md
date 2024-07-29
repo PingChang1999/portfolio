@@ -19,3 +19,6 @@
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**
 - Developed and automated reports for leak detection of rooftop scans, significantly reducing manual effort by 50% over two months, demonstrating integrity and accountability in process improvement
+- Collaborated in cross-functional Agile software development teams, employing various research methodologies to enhance project scalability and showcasing effective teamwork
+- Demonstrated strong analytical and problem-solving skills by creating test cases utilizing pytest to ensure quality and performance, reducing defect rates by 20%
+- [Building Diagnostic Robotics Website](https://www.buildingdiagnosticrobotics.com/)
