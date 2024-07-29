@@ -7,8 +7,8 @@
 
 - B.S., Computer Science | New York University (May 2021)  
   Mathematics Minor  
-  GPA: 3.5/4
-  Dean's List
+  GPA: 3.5/4  
+  Dean’s List
 
 
 ## Personal Projects
@@ -16,6 +16,13 @@
 - Developed machine learning models using ridge regression to forecast the Wins Above Replacement (WAR) statistic for baseball players using historical data
 - Utilized PyBaseball library to gather extensive player statistics from Baseball Reference and FanGraphs, followed by thorough data cleaning and preprocessing for accurate player evaluation and model training
 - Enhanced prediction accuracy by incorporating performance data, enabling the model to achieve an accuracy within 0.2 of the standard deviation
+
+[Project Repository](https://github.com/PingChang1999/Predicting-Player-WAR)
+
+**Titanic Sinking Causal Impact Estimation**
+- Applied Bayesian modeling and statistics using cleaned data to construct and refine models, enhancing interpretability of results
+- Demonstrated development experience in statistical programming with Python, utilizing PyMC and PyTorch libraries for advanced data analysis and model simulation
+- Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
 
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**
@@ -42,5 +49,5 @@
 
 
 # Certifications
-**Relational Database & SQL (Comp-1630-NE4) w/ BCIT
-- Issued June 2024
+**Relational Database & SQL (Comp-1630-NE4) w/ BCIT**  
+Issued June 2024
