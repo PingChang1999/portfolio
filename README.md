@@ -26,7 +26,8 @@ Key Skills: Data Visualization, PyMC, PyTorch
 - Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
 
 ## Work Experience
-**Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**
+**Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**<br>
+Key Skills: Machine Learning, Agile Methodologies, PyTest
 - Developed and automated reports for leak detection of rooftop scans, significantly reducing manual effort by 50% over two months, demonstrating integrity and accountability in process improvement
 - Collaborated in cross-functional Agile software development teams, employing various research methodologies to enhance project scalability and showcasing effective teamwork
 - Demonstrated strong analytical and problem-solving skills by creating test cases utilizing pytest to ensure quality and performance, reducing defect rates by 20%
@@ -51,9 +52,12 @@ Key Skills: MySQL, SQL Server Management Studio, Databases
 [Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
 
 
-# Certifications
+## Certifications
 **Microsoft Certified: Azure Data Fundamentals (DP-900)**<br>
 Issued July 2024
 
 **Relational Database & SQL (Comp-1630-NE4) w/ BCIT**<br>
 Issued June 2024
+
+
+## Publications
