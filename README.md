@@ -19,7 +19,8 @@ Key Skills: Python, Machine Learning, ETL
 
 [Project Repository](https://github.com/PingChang1999/Predicting-Player-WAR)
 
-**Titanic Sinking Causal Impact Estimation**
+**Titanic Sinking Causal Impact Estimation**<br>
+Key Skills: Data Visualization, PyMC, PyTorch
 - Applied Bayesian modeling and statistics using cleaned data to construct and refine models, enhancing interpretability of results
 - Demonstrated development experience in statistical programming with Python, utilizing PyMC and PyTorch libraries for advanced data analysis and model simulation
 - Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
@@ -32,14 +33,16 @@ Key Skills: Python, Machine Learning, ETL
 
 [Building Diagnostic Robotics Website](https://www.buildingdiagnosticrobotics.com/)
 
-**Web Application Transportation Fare Prediction and Location Optimization @ NYU (September 2023 - March 2024)**
+**Web Application Transportation Fare Prediction and Location Optimization @ NYU (September 2023 - March 2024)**<br>
+Key Skills: PySpark, Hadoop MapReduce, MongoDB
 - Created and maintained scalable data processing frameworks and ETL pipelines leveraging Spark, Hadoop MapReduce for robust and efficient data manipulation of large datasets, improving data processing speed by 30%
 - Implemented sophisticated machine learning models using K-means algorithm to identify clusters in transportation data, increasing prediction accuracy by 15%
 - Presented data trends with actionable insight to non-technical audiences by using data visualizations through employing pandas and Matplotlib
 
 [Project Repository](https://github.com/PingChang1999/Transportation-Fare-Prediction-and-Location-Optimization)
 
-**Alzheimer's Patient and Caretaker Connection Application @ NYU (December 2022 - May 2023)**
+**Alzheimer's Patient and Caretaker Connection Application @ NYU (December 2022 - May 2023)**<br>
+Key Skills: MySQL, SQL Server Management Studio, Databases
 - Developed complex queries and stored procedures using MySQL and Microsoft SQL Server Management Studio to ensure data accuracy and reliability, incorporating database design principles
 - Achieved a 25% improvement in response time for patient and caretaker interactions through optimized data processing, real-time updates, and enhanced communication
 - Utilized and researched advanced data analytics techniques to understand and address data limitations, supporting informed decision-making
@@ -49,5 +52,8 @@ Key Skills: Python, Machine Learning, ETL
 
 
 # Certifications
+**Microsoft Certified: Azure Data Fundamentals (DP-900)**
+Issued July 2024
+
 **Relational Database & SQL (Comp-1630-NE4) w/ BCIT**  
 Issued June 2024
