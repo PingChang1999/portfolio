@@ -52,8 +52,8 @@ Key Skills: MySQL, SQL Server Management Studio, Databases
 
 
 # Certifications
-**Microsoft Certified: Azure Data Fundamentals (DP-900)**
+**Microsoft Certified: Azure Data Fundamentals (DP-900)**<br>
 Issued July 2024
 
-**Relational Database & SQL (Comp-1630-NE4) w/ BCIT**  
+**Relational Database & SQL (Comp-1630-NE4) w/ BCIT**<br>
 Issued June 2024
