@@ -10,7 +10,7 @@
   GPA: 3.5/4 ; Dean’s List
 
 
-## Personal Projects
+## Baseball Projects
 **Projecting MLB Player Wins Above Replacement (WAR)**<br>
 Key Skills: Python, Machine Learning, ETL
 - Developed machine learning models using ridge regression to forecast the Wins Above Replacement (WAR) statistic for baseball players using historical data
@@ -19,11 +19,12 @@ Key Skills: Python, Machine Learning, ETL
 
 [Project Repository](https://github.com/PingChang1999/Predicting-Player-WAR)
 
-**Titanic Sinking Causal Impact Estimation**<br>
-Key Skills: Data Visualization, PyMC, PyTorch
-- Applied Bayesian modeling and statistics using cleaned data to construct and refine models, enhancing interpretability of results
-- Demonstrated development experience in statistical programming with Python, utilizing PyMC and PyTorch libraries for advanced data analysis and model simulation
-- Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
+**Predicting Saves for Pitchers in MLB**<br>
+Key Skills: Pandas, Schikit-learn, Matplotlib
+- Developed a predictive model for MLB pitcher saves using machine learning techniques
+- Analyzed historical pitching data and identified key metrics influencing save opportunities
+- Utilized Python and libraries such as Pandas, Scikit-learn, and Matplotlib for data analysis and visualization
+- Achieved improved prediction accuracy, demonstrating the model's potential for enhancing team strategy and player evaluation
 
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**<br>
@@ -51,6 +52,20 @@ Key Skills: MySQL, SQL Server Management Studio, Databases
 
 [Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
 
+## Other Personal Projects
+**Titanic Sinking Causal Impact Estimation**<br>
+Key Skills: Data Visualization, PyMC, PyTorch
+- Applied Bayesian modeling and statistics using cleaned data to construct and refine models, enhancing interpretability of results
+- Demonstrated development experience in statistical programming with Python, utilizing PyMC and PyTorch libraries for advanced data analysis and model simulation
+- Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
+
+**Air Ticket Reservation System**<br>
+Key Skills: Relational Databases, MySQL, SQLi Prevention
+- Developed an online Air Ticket Reservation System with a focus on conceptual design, implementation, operation, and maintenance of a robust relational database architecture
+- Created a web application to interface with the database, enabling efficient retrieval and storage of information, enhancing user interaction and data management
+- Implemented secure login sessions, user authentication, cross-site scripting prevention, and user-friendly interfaces tailored to each user type, enhancing system usability and security
+
+[Project Repository](https://github.com/PingChang1999/Airplane-Ticket-Reservation-System)
 
 ## Certifications
 **Microsoft Certified: Azure Data Fundamentals (DP-900)**<br>
