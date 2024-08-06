@@ -4,5 +4,5 @@ logo: /assets/img/profile_picture.JPG
   #LinkedIn: <a href="https://www.linkedin.com/in/pingchang-923/" target="_blank">pingchang-923</a> <br>
   #GitHub: <a href="https://github.com/PingChang1999/" target="_blank">PingChang1999</a> <br>
   #Facebook: <a href="https://www.facebook.com/pingchang990923" target="_blank">Ping Chang</a> <br>
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
