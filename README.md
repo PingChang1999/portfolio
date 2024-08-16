@@ -18,6 +18,7 @@ Key Skills: Python, Machine Learning, ETL
 - Enhanced prediction accuracy by incorporating performance data, enabling the model to achieve an accuracy within 0.2 of the standard deviation
 
 [Project Repository](https://github.com/PingChang1999/Predicting-Player-WAR)
+![WAR Prediction](/assets/img/Player_WAR_Prediction.png)
 
 **Predicting Saves for Pitchers in MLB**<br>
 Key Skills: Pandas, Schikit-learn, Matplotlib
