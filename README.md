@@ -50,13 +50,14 @@ Key Skills: MySQL, SQL Server Management Studio, Databases
 - Utilized and researched advanced data analytics techniques to understand and address data limitations, supporting informed decision-making
 - Integrated locating monitoring systems by scripting with JavaScript API to provide accurate up-to-date information
 
+[Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
+![Application Collaboration Diagram](/assets/img/Application_Collaboration_Diagram.png)
+
 **Course Instructor @ Kang Chiao International School (May 2019 - August 2019)**<br>
 Key Skills: Communication, Engagement, Management
 - Taught English and Social Studies to high school students
 - Prioritized engagement from students who struggled during the regular semester
 - Expanded the number of activities during the summer program to get students more involved
-
-[Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
 
 ## Other Personal Projects
 **Titanic Sinking Causal Impact Estimation**<br>
