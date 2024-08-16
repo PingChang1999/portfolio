@@ -54,7 +54,7 @@ Key Skills: MySQL, SQL Server Management Studio, Databases
 - Integrated locating monitoring systems by scripting with JavaScript API to provide accurate up-to-date information
 
 [Project Repository](https://github.com/PingChang1999/Alzheimer-Connection-Application)
-![Application Collaboration Diagram](/assets/img/Application_Collaboration_Diagram.png)
+![Connection_Collaboration_Diagram](/assets/img/Connection_Collaboration_Diagram.png)
 
 **Course Instructor @ Kang Chiao International School (May 2019 - August 2019)**<br>
 Key Skills: Communication, Engagement, Management
