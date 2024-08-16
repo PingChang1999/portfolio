@@ -35,6 +35,7 @@ Key Skills: Machine Learning, Agile Methodologies, PyTest
 - Demonstrated strong analytical and problem-solving skills by creating test cases utilizing pytest to ensure quality and performance, reducing defect rates by 20%
 
 [Building Diagnostic Robotics Website](https://www.buildingdiagnosticrobotics.com/)
+![WAR Prediction](/assets/img/Rooftop_Deficiencies_Map.png)
 
 **Web Application Transportation Fare Prediction and Location Optimization @ NYU (September 2023 - March 2024)**<br>
 Key Skills: PySpark, Hadoop MapReduce, MongoDB
