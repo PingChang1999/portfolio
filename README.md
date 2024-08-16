@@ -42,6 +42,7 @@ Key Skills: PySpark, Hadoop MapReduce, MongoDB
 - Presented data trends with actionable insight to non-technical audiences by using data visualizations through employing pandas and Matplotlib
 
 [Project Repository](https://github.com/PingChang1999/Transportation-Fare-Prediction-and-Location-Optimization)
+![Transportation Application](/assets/img/Transportation_Application.png)
 
 **Alzheimer's Patient and Caretaker Connection Application @ NYU (December 2022 - May 2023)**<br>
 Key Skills: MySQL, SQL Server Management Studio, Databases
