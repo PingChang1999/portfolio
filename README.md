@@ -84,6 +84,3 @@ Issued July 2024
 
 **Relational Database & SQL (Comp-1630-NE4) w/ BCIT**<br>
 Issued June 2024
-
-
-## Publications
