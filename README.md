@@ -68,6 +68,7 @@ Key Skills: Data Visualization, PyMC, PyTorch
 - Applied Bayesian modeling and statistics using cleaned data to construct and refine models, enhancing interpretability of results
 - Demonstrated development experience in statistical programming with Python, utilizing PyMC and PyTorch libraries for advanced data analysis and model simulation
 - Performed advanced statistical analysis, using regression, mixed models, and machine learning to analyze data on rescue prioritization efforts, improving accuracy of predictive models by 20% and ensuring results aligned with historical data sources
+![Titanic_Statistical_Model](/assets/img/Titanic_Statistical_Model.png)
 
 **Air Ticket Reservation System**<br>
 Key Skills: Relational Databases, MySQL, SQLi Prevention
