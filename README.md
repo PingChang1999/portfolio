@@ -27,15 +27,6 @@ In this initiative, machine learning models were developed using ridge regressio
 *Key Skills: Python, Machine Learning, ETL* <br><br>
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
 
-**Predicting Saves for Pitchers in MLB**
-<br><br>
-![Save Prediction](/assets/img/Predicted_vs_Actual_Saves.png)
-<br>
-Key Skills: Pandas, Schikit-learn, Matplotlib
-- Developed a predictive model for MLB pitcher saves using machine learning techniques
-- Analyzed historical pitching data and identified key metrics influencing save opportunities
-- Utilized Python and libraries such as Pandas, Scikit-learn, and Matplotlib for data analysis and visualization
-- Achieved improved prediction accuracy, demonstrating the model's potential for enhancing team strategy and player evaluation
 
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**<br>
