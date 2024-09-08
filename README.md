@@ -12,15 +12,12 @@ I'm Ping Chang, a data professional with a passion for transforming complex data
 
 
 ## Baseball Projects
-**Predicting MLB Team Wins per Season**<br>
+**Predicting MLB Team Wins per Season**<br><br>
 This project focuses on predicting MLB team wins using various machine learning techniques in Python. It utilizes Scikit-learn for applying models like K-means clustering and linear regression. The data is loaded from a SQLite database and processed using Pandas for cleaning and exploration, followed by Matplotlib to visualize the key statistics. The goal of this task is to build predictive models for MLB team wins perseason based on team statistics by using historical data.<br><br>
 ![Team Win Prediction](/assets/img/Runs_per_Game.png)
 <br>
-*Key Skills: Pandas, Schikit-learn, Matplotlib*
-- Loaded MLB team statistics from SQLite database and processed data using Pandas
-- Used Matplotlib to explore and visualize key baseball statistics
-- Prepared and cleaned data for model training, focusing on modern teams and games played
-- Applied K-Means clustering and linear regression to predict number of wins for a given season
+*Key Skills: Pandas, Schikit-learn, Matplotlib* <br><br>
+To find out more about the project, please visit: (link)
 
 **Projecting MLB Player Wins Above Replacement (WAR)**
 <br><br>
