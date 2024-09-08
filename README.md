@@ -30,7 +30,7 @@ Key Skills: Python, Machine Learning, ETL
 
 **Predicting Saves for Pitchers in MLB**
 <br><br>
-![Save Prediction](/assets/img/Predicted_Saves.png)
+![Save Prediction](/assets/img/Predicted_vs_Actual_Saves.png)
 <br>
 Key Skills: Pandas, Schikit-learn, Matplotlib
 - Developed a predictive model for MLB pitcher saves using machine learning techniques
