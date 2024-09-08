@@ -1,3 +1,4 @@
+## About Me
 I'm Ping Chang, a data professional with a passion for transforming complex data into meaningful insights. With expertise in developing scalable data solutions, building data pipelines, and working with a variety of programming languages and tools such as Python and SQL, I thrive on solving challenging problems in data analysis and machine learning. I hold a Master's degree in Computer Science from New York University Tandon School of Engineering, where I specialized in data-driven courses. My projects span from sports analytics to innovative data processing, with a focus on delivering impactful and practical solutions.<br>
 
 ## Education
