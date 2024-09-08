@@ -20,7 +20,10 @@ This project focuses on predicting MLB team wins using various machine learning 
 To find out more about the project, please visit: (link) <br><br>
 
 **Projecting MLB Player Wins Above Replacement (WAR)**<br><br>
-In this initiative, machine learning models were developed using ridge regression to predict the Wins Above Replacement(WAR) statistic for MLB players. The PyBaseball library was leveraged to extract player statistics from Baseball Reference and FanGraphs. After rigorous data cleaning and preprocessing, the models incorporated historical player performance data, resulting in predictions that were accurate within 0.2 of the standard deviation of the WAR metric.<br><br>
+In this initiative, machine learning models were developed using ridge regression to predict the Wins Above Replacement(WAR) statistic for MLB players. The PyBaseball library was leveraged to extract player statistics from Baseball Reference and FanGraphs. After rigorous data cleaning and preprocessing, the models incorporated historical player performance data, resulting in predictions that were accurate within 0.2 of the standard deviation of the WAR metric.
+<br><br>
+![WAR Predictions](/assets/img/WAR_predictions.png)
+<br>
 *Key Skills: Python, Machine Learning, ETL*
 To find out more about the project, please visit: (link) <br><br>
 
