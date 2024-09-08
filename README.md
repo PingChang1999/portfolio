@@ -25,7 +25,7 @@ In this initiative, machine learning models were developed using ridge regressio
 ![WAR Predictions](/assets/img/WAR_predictions.png)
 <br>
 *Key Skills: Python, Machine Learning, ETL* <br><br>
-To find out more about the project, please visit: [Link]([https://github.com/PingChang1999/Transportation-Fare-Prediction-and-Location-Optimization](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
+To find out more about the project, please visit: [Link](https://github.com/PingChang1999/Predicting-Player-WAR/) <br><br>
 
 **Predicting Saves for Pitchers in MLB**
 <br><br>
