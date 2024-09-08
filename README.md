@@ -28,7 +28,10 @@ Key Skills: Python, Machine Learning, ETL
 - Utilized PyBaseball library to gather extensive player statistics from Baseball Reference and FanGraphs, followed by thorough data cleaning and preprocessing for accurate player evaluation and model training
 - Enhanced prediction accuracy by incorporating performance data, enabling the model to achieve an accuracy within 0.2 of the standard deviation
 
-**Predicting Saves for Pitchers in MLB**<br>
+**Predicting Saves for Pitchers in MLB**
+<br><br>
+![Save Prediction](/assets/img/Predicted_Saves.png)
+<br>
 Key Skills: Pandas, Schikit-learn, Matplotlib
 - Developed a predictive model for MLB pitcher saves using machine learning techniques
 - Analyzed historical pitching data and identified key metrics influencing save opportunities
