@@ -25,7 +25,8 @@ Key Skills: Pandas, Schikit-learn, Matplotlib
 - Loaded MLB team statistics from SQLite database and processed data using Pandas
 - Used Matplotlib to explore and visualize key baseball statistics
 - Prepared and cleaned data for model training, focusing on modern teams and games played
-- Applied K-Means clustering and linear regression to predict number of wins for a given season<br>
+- Applied K-Means clustering and linear regression to predict number of wins for a given season
+<br><br>
 ![Team Win Prediction](/assets/img/Runs_vs_Wins.png)
 
 **Predicting Saves for Pitchers in MLB**<br>
