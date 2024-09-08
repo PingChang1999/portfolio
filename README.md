@@ -23,7 +23,7 @@ Key Skills: Python, Machine Learning, ETL
 
 **Predicting MLB Team Wins per Season**
 <br><br>
-![Team Win Prediction](/assets/img/Runs_vs_Wins.png)
+![Team Win Prediction](/assets/img/Runs_per_Game.png)
 <br>
 Key Skills: Pandas, Schikit-learn, Matplotlib
 - Loaded MLB team statistics from SQLite database and processed data using Pandas
