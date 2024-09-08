@@ -11,7 +11,8 @@
 
 
 ## Baseball Projects
-**Projecting MLB Player Wins Above Replacement (WAR)**<br>
+**Projecting MLB Player Wins Above Replacement (WAR)**
+<br><br>
 Key Skills: Python, Machine Learning, ETL
 - Developed machine learning models using ridge regression to forecast the Wins Above Replacement (WAR) statistic for baseball players using historical data
 - Utilized PyBaseball library to gather extensive player statistics from Baseball Reference and FanGraphs, followed by thorough data cleaning and preprocessing for accurate player evaluation and model training
@@ -20,10 +21,10 @@ Key Skills: Python, Machine Learning, ETL
 [Project Repository](https://github.com/PingChang1999/Predicting-Player-WAR)<br>
 ![WAR Prediction](/assets/img/Player_WAR_Predictions.png)
 
-**Predicting MLB Team Wins per Season**<br>
+**Predicting MLB Team Wins per Season**
 <br><br>
 ![Team Win Prediction](/assets/img/Runs_vs_Wins.png)
-<br><br>
+<br>
 Key Skills: Pandas, Schikit-learn, Matplotlib
 - Loaded MLB team statistics from SQLite database and processed data using Pandas
 - Used Matplotlib to explore and visualize key baseball statistics
