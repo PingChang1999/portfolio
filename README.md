@@ -24,7 +24,7 @@ In this initiative, machine learning models were developed using ridge regressio
 <br><br>
 ![WAR Predictions](/assets/img/WAR_predictions.png)
 <br>
-*Key Skills: Python, Machine Learning, ETL*
+*Key Skills: Python, Machine Learning, ETL* <br><br>
 To find out more about the project, please visit: (link) <br><br>
 
 **Predicting Saves for Pitchers in MLB**
