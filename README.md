@@ -16,11 +16,19 @@ I'm Ping Chang, a data professional with a passion for transforming complex data
 This project focuses on predicting MLB team wins using various machine learning techniques in Python. It utilizes Scikit-learn for applying models like K-means clustering and linear regression. The data is loaded from a SQLite database and processed using Pandas for cleaning and exploration, followed by Matplotlib to visualize the key statistics. The goal of this task is to build predictive models for MLB team wins perseason based on team statistics by using historical data.<br><br>
 <div class="slider-container">
   <div class="slider">
-    <div class="slide"><img src="/assets/img/Runs_per_Game.png" alt="Team Win Prediction"></div>
-    <div class="slide"><img src="/assets/img/WAR_predictions.png" alt="WAR Prediction"></div>
-    <div class="slide"><img src="/assets/img/Location_Recommendation.png" alt="Location Recommendation"></div>
+    <div class="slide">
+      <img src="assets/img/Runs_per_Game.png" alt="Team Win Prediction">
+    </div>
+    <div class="slide">
+      <img src="assets/img/WAR_predictions.png" alt="WAR Prediction">
+    </div>
+    <div class="slide">
+      <img src="assets/img/Location_Recommendation.png" alt="Location Recommendation">
+    </div>
+    <!-- Add more images as needed -->
   </div>
 </div>
+
 <button id="prevBtn">Previous</button>
 <button id="nextBtn">Next</button>
 <br>
