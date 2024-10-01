@@ -1,5 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Slider</title>
+  <style>
+    /* Ensure the container only shows one slide at a time */
+    .slider-container {
+      width: 100%; /* Make this as wide as your content */
+      max-width: 800px; /* You can adjust this width */
+      overflow: hidden; /* Hide the overflowing slides */
+      position: relative;
+      margin: 20px auto; /* Center the slider */
+    }
+
+    /* Flexbox for horizontal sliding */
+    .slider {
+      display: flex;
+      transition: transform 0.5s ease-in-out; /* Smooth sliding effect */
+    }
+
+    /* Ensure each slide takes up the full width */
+    .slide {
+      min-width: 100%; /* Make each slide take full container width */
+      box-sizing: border-box;
+    }
+
+    /* Image styling */
+    .slide img {
+      width: 100%;
+      display: block;
+    }
+
+    button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      z-index: 1;
+    }
+
+    #prevBtn {
+      left: 10px;
+    }
+
+    #nextBtn {
+      right: 10px;
+    }
+  </style>
+</head>
+
 ## About Me
-I'm Ping Chang, a data professional with a passion for transforming complex data into meaningful insights. With expertise in developing scalable data solutions, building data pipelines, and working with a variety of programming languages and tools such as Python and SQL, I thrive on solving challenging problems in data analysis and machine learning. I hold a Master's degree in Computer Science from New York University Tandon School of Engineering, where I specialized in data-driven courses. My projects span from sports analytics to innovative data processing, with a focus on delivering impactful and practical solutions.<br>
+I'm Ping Chang, a data professional specializing in building robust, scalable data solutions and deriving actionable insights from complex datasets. My exterise spans across developing data pipelines, machine learning models, and predictic analytics in industries ranging from sports analytics to transportation optimization.<br>
 
 ## Education
 - M.S., Computer Science | New York University  
