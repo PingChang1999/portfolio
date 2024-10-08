@@ -23,6 +23,7 @@ This project focuses on evaluating and visualizing MLB pitcher performance trend
 <br><br>
 *Key Skills: Python, Seaborn, Matplotlib, Pandas* <br><br>
 <br>
+![Pitch_Break](/assets/img/Pitch_Break.png) <br>
 Highlights: <br>
 - Built comprehensive visualizations for release velocity trends
 - Identified potential signs of fatigue during games through velocity analysis
