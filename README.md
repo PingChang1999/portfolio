@@ -30,11 +30,16 @@ Highlights: <br>
 <br><br>
 
 **Predicting MLB Team Wins per Season**<br><br>
-This project focuses on predicting MLB team wins using various machine learning techniques in Python. It utilizes Scikit-learn for applying models like K-means clustering and linear regression. The data is loaded from a SQLite database and processed using Pandas for cleaning and exploration, followed by Matplotlib to visualize the key statistics. The goal of this task is to build predictive models for MLB team wins perseason based on team statistics by using historical data.<br><br>
+This project applies various machine learning techniques to predict MLB team wins based on historical team statistics. I employed K-means clustering and linear regression models using Scikit-learn to forecast wins for upcoming seasons. Data was sourced from Retrosheet and processed with pandas for cleaning and exploration, and Matplotlib was used to visualize key statistics. The outcome of this project provided accurate predictions for MLB team performance, guiding strategic insights for team management.
 <br><br>
-![Runs_Per_Game](/assets/img/Runs_per_Game.png)
+*Key Skills: Python, Scikit-learn, SQLite, Pandas, Matplotlib* <br><br>
 <br>
-*Key Skills: Pandas, Schikit-learn, Matplotlib* <br><br>
+![Runs_Per_Game](/assets/img/Runs_per_Game.png)
+Highlights: <br>
+- Utilized K-means clustering and linear regression to predict team wins
+- Cleaned and processed historical team data using pandas
+- Provided predictive insights for team performance and management
+<br><br>
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/MLB-Projected-Wins/blob/main/Projected%20Wins.ipynb) <br><br>
 
 **Projecting MLB Player Wins Above Replacement (WAR)**<br><br>
