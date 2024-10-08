@@ -1,5 +1,11 @@
 ## About Me
-I'm Ping Chang, a data professional specializing in building robust, scalable data solutions and deriving actionable insights from complex datasets. My expertise spans across developing data pipelines, machine learning models, and predictive analysis in industries ranging from sports analytics to transportation optimization.<br>
+As a data professional with a background in engineering and analysis, I thrive on transforming complex data into actionable insights that drive impactful decisions. With over 4 years of experience across data engineering, machine learning, and data visualization, I bring expertise in developing robust data solutions, optimizing workflows, and building predictive models that unlock value from large datasets. <br>
+
+I hold a Master of Science in Computer Science from New York University Tandon School of Engineering, where I specialized in data-driven courses such as Big Data and Data Science. During my time at NYU, I gained a deep understanding of advanced analytics and honed my skills in Python, SQL, PySpark, and cloud computing. My academic journey has given me the ability to approach data challenges with both technical precision and strategic insight. <br>
+
+Currently, I work as a Data Engineer at a fast-paced startup, where I automate data processes and improve system reliability. I’ve led projects that range from optimizing rooftop leak detection systems to predicting MLB team performance through advanced statistical modeling. My passion for solving real-world problems drives me to continuously explore new opportunities where data can make a meaningful impact. <br>
+
+If you're interested in connecting or discussing opportunities, feel free to reach out! <br>
 
 ## Education
 - M.S., Computer Science | New York University  
