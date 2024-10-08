@@ -17,7 +17,18 @@ If you're interested in connecting or discussing opportunities, feel free to rea
   GPA: 3.5/4 ; Dean’s List
 
 
-## Baseball Projects
+## Projects
+**MLB Pitcher Performance Analysis**<br><br>
+This project focuses on evaluating and visualizing MLB pitcher performance trends by analyzing release velocity distribution by inning. Using Seaborn and Matplotlib, I developed an intuitive analysis tool that highlights patterns of performance, potential fatigue, and in-game adjustments. The visualizations provide insights into a pitcher's velocity consistency and help identify trends that can inform decision-making in critical game moments.
+<br><br>
+*Key Skills: Python, Seaborn, Matplotlib, Pandas* <br><br>
+<br>
+Highlights: <br>
+- Built comprehensive visualizations for release velocity trends
+- Identified potential signs of fatigue during games through velocity analysis
+- Leveraged data from Retrosheet and Baseball Reference for thorough analysis
+<br><br>
+
 **Predicting MLB Team Wins per Season**<br><br>
 This project focuses on predicting MLB team wins using various machine learning techniques in Python. It utilizes Scikit-learn for applying models like K-means clustering and linear regression. The data is loaded from a SQLite database and processed using Pandas for cleaning and exploration, followed by Matplotlib to visualize the key statistics. The goal of this task is to build predictive models for MLB team wins perseason based on team statistics by using historical data.<br><br>
 <br><br>
