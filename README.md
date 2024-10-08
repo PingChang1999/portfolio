@@ -34,20 +34,27 @@ This project applies various machine learning techniques to predict MLB team win
 <br><br>
 *Key Skills: Python, Scikit-learn, SQLite, Pandas, Matplotlib* <br><br>
 <br>
-![Runs_Per_Game](/assets/img/Runs_per_Game.png)
+![Runs_Per_Game](/assets/img/Runs_per_Game.png) <br>
 Highlights: <br>
 - Utilized K-means clustering and linear regression to predict team wins
 - Cleaned and processed historical team data using pandas
 - Provided predictive insights for team performance and management
 <br><br>
+
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/MLB-Projected-Wins/blob/main/Projected%20Wins.ipynb) <br><br>
 
-**Projecting MLB Player Wins Above Replacement (WAR)**<br><br>
-In this initiative, machine learning models were developed using ridge regression to predict the Wins Above Replacement(WAR) statistic for MLB players. The PyBaseball library was leveraged to extract player statistics from Baseball Reference and FanGraphs. After rigorous data cleaning and preprocessing, the models incorporated historical player performance data, resulting in predictions that were accurate within 0.2 of the standard deviation of the WAR metric.
+**Projecting MLB Player Wins Above Replacement**<br><br>
+In this project, I developed machine learning models using ridge regression to accurately predict Wins Above Replacement (WAR) for MLB players. The PyBaseball library was utilized to extract historical player data from Baseball Reference and FanGraphs. After rigorous data preprocessing and feature selection, I achieved WAR predictions within 0.2 standard deviations of the actual metric. This project showcases how data-driven insights can help evaluate player contributions to their team's success.
 <br><br>
-![WAR Predictions](/assets/img/WAR_predictions.png)
+*Key Skills: Python, Scikit-learn, PyBaseball, pandas* <br><br>
 <br>
-*Key Skills: Python, Machine Learning, ETL* <br><br>
+![WAR Predictions](/assets/img/WAR_predictions.png) <br>
+Highlights: <br>
+- Built ridge regression models to predict MLB player WAR with high accuracy
+- Extracted player statistics from Baseball Reference and FanGraphs
+- Provided reliable predictions that can assist in player performance evaluation
+<br><br>
+
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
 
 
