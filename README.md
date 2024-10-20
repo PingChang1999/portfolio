@@ -69,6 +69,7 @@ Highlights: <br>
 - Accounted for biases based on hit type and launch angle to provide reliable performance metrics
 - Provided a unified, consistent view of player performance metrics that enhance scouting and analysis capabilities
 <br><br>
+
 ![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
 <br><br>
 
