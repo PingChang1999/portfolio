@@ -58,6 +58,19 @@ Highlights: <br>
 
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
 
+**Projecting True Average Speed-Off-Bat**<br><br>
+In this project, I addressed the challenge of discrepancies between measurement systems used to record batted ball data, specifically the speed-off-bat metric. By applying a combination of a weighted mean difference approach and linear regression, I developed models that adjusted speed readings across systems to produce an accurate, unified estimate of the true average speed-off-bat for each player. This approach accounted for system biases based on hit type (ground balls, line drives, fly balls, popups) and launch angle. The integration of machine learning helped refine the relationship between key variables and provided more reliable estimates. The adjusted speeds offer a more accurate metric for evaluating hitter performance and allow better comparisons across different measurement tools.
+<br><br>
+*Key Skills: Python, Scikit-learn, PyBaseball, pandas* <br><br>
+<br>
+![WAR Predictions](/assets/img/WAR_predictions.png) <br>
+Highlights: <br>
+- Built ridge regression models to predict MLB player WAR with high accuracy
+- Extracted player statistics from Baseball Reference and FanGraphs
+- Provided reliable predictions that can assist in player performance evaluation
+<br><br>
+
+To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
 
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**<br>
