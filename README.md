@@ -63,14 +63,14 @@ In this project, I addressed the challenge of discrepancies between measurement 
 <br><br>
 *Key Skills: Python, Scikit-learn, PyBaseball, pandas* <br><br>
 <br>
-![WAR Predictions](/assets/img/WAR_predictions.png) <br>
+![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
 Highlights: <br>
-- Built ridge regression models to predict MLB player WAR with high accuracy
-- Extracted player statistics from Baseball Reference and FanGraphs
-- Provided reliable predictions that can assist in player performance evaluation
+- Developed accurate models using linear regression and weighted mean differences to address discrepancies between measurement systems
+- Accounted for biases based on hit type and launch angle to provide reliable performance metrics
+- Provided a unified, consistent view of player performance metrics that enhance scouting and analysis capabilities
 <br><br>
-
-To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
+![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
+<br><br>
 
 ## Work Experience
 **Data Engineer @ Building Diagnostic Robotics (May 2024 - Present)**<br>
