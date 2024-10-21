@@ -34,14 +34,14 @@ Highlights: <br>
 This project developed machine learning models to predict the total wins of MLB teams over a season, leveraging historical data from Retrosheet and advanced machine learning techniques. By applying K-means clustering to group teams with similar characteristics and linear regression to predict win totals, the project explored correlations between key performance metrics (batting average, on-base percentage, etc.) and team success. The models provided highly accurate predictions, identifying trends that can guide long-term team strategies and roster building. In addition to statistical predictions, the project includes exploratory data analysis to uncover relationships between different performance factors.
 <br><br>
 
-![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
+![Runs-vs-Wins](/assets/img/Runs-vs-Wins.png) <br><br>
 Highlights: <br>
 - Developed predictive models that achieved high accuracy in forecasting team wins
 - Applied clustering algorithms to reveal common performance traits among different teams
 - Conducted extensive data analysis, linking on-field metrics to team success
 <br><br>
 
-![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
+![K-Means-Clusters](/assets/img/K-Means-Clusters.png) <br>
 <br><br>
 
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/MLB-Projected-Wins/blob/main/Projected%20Wins.ipynb) <br><br>
