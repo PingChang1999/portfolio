@@ -65,15 +65,13 @@ Highlights: <br>
 This project focused on projecting MLB players' Wins Above Replacement (WAR), a key statistic for evaluating player contributions to team success. Using historical player data sourced from Baseball Reference and FanGraphs via the PyBaseball library, I applied ridge regression models to forecast future WAR values. The model incorporated multiple factors like batting statistics, fielding performance, and prior WAR results, resulting in highly accurate projections. The project’s purpose was to aid teams in predicting player contributions and optimizing roster decisions based on anticipated performance trends. This tool can serve general managers, coaches, and analysts during player contract negotiations or trades.
 <br><br>
 
-![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
+![WAR_predictions](/assets/img/WAR_predictions.png) <br><br>
 Highlights: <br>
 - Developed a model capable of predicting player WAR within 0.2 standard deviation
 - Integrated data from multiple sources to create a holistic picture of player performance
 - Produced valuable insights for team decision-makers to assesss future player contributions
 <br><br>
 
-![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
-<br>
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
 
 
