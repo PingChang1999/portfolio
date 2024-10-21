@@ -51,14 +51,14 @@ Highlights: <br>
 This project is a detailed exploration of MLB pitchers' release velocity distribution across multiple innings. The goal was to analyze how velocity fluctuates throughout a game and whether it indicates fatigue or performance consistency. By using Statcast data, I designed a comprehensive tool that visualizes these distributions, breaking down performance inning by inning. The analysis helps identify moments where pitchers may begin to lose velocity, which could suggest fatigue and lead to performance drops. These insights are invaluable for coaching staff to make data-driven decisions on pitcher usage, substitutions, and recovery strategies.
 <br><br>
 
-![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
+![Pitch-Break](/assets/img/Pitch-Break.png) <br><br>
 Highlights: <br>
 - Created a data-driven tool to help coaches and analysts understand pitcher fatigue patterns
 - Analyzed and processed large volumes of Statcast data, breaking it down into actionable insights
 - Revealed inning-based velocity changes that can directly impact pitching strategies during games
 <br><br>
 
-![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
+![Release-Speed](/assets/img/Release-Speed.png) <br>
 <br><br>
 
 **Projecting MLB Player Wins Above Replacement**<br><br>
