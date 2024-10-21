@@ -31,29 +31,33 @@ Highlights: <br>
 <br><br>
 
 **Predicting MLB Team Wins per Season**<br><br>
-This project applies various machine learning techniques to predict MLB team wins based on historical team statistics. I employed K-means clustering and linear regression models using Scikit-learn to forecast wins for upcoming seasons. Data was sourced from Retrosheet and processed with pandas for cleaning and exploration, and Matplotlib was used to visualize key statistics. The outcome of this project provided accurate predictions for MLB team performance, guiding strategic insights for team management.
+This project developed machine learning models to predict the total wins of MLB teams over a season, leveraging historical data from Retrosheet and advanced machine learning techniques. By applying K-means clustering to group teams with similar characteristics and linear regression to predict win totals, the project explored correlations between key performance metrics (batting average, on-base percentage, etc.) and team success. The models provided highly accurate predictions, identifying trends that can guide long-term team strategies and roster building. In addition to statistical predictions, the project includes exploratory data analysis to uncover relationships between different performance factors.
 <br><br>
-*Key Skills: Python, Scikit-learn, SQLite, Pandas, Matplotlib* <br><br>
-<br>
-![Runs_Per_Game](/assets/img/Runs_per_Game.png) <br>
+
+![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
 Highlights: <br>
-- Utilized K-means clustering and linear regression to predict team wins
-- Cleaned and processed historical team data using pandas
-- Provided predictive insights for team performance and management
+- Developed predictive models that achieved high accuracy in forecasting team wins
+- Applied clustering algorithms to reveal common performance traits among different teams
+- Conducted extensive data analysis, linking on-field metrics to team success
+<br><br>
+
+![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
 <br><br>
 
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/MLB-Projected-Wins/blob/main/Projected%20Wins.ipynb) <br><br>
 
 **Projecting MLB Player Wins Above Replacement**<br><br>
-In this project, I developed machine learning models using ridge regression to accurately predict Wins Above Replacement (WAR) for MLB players. The PyBaseball library was utilized to extract historical player data from Baseball Reference and FanGraphs. After rigorous data preprocessing and feature selection, I achieved WAR predictions within 0.2 standard deviations of the actual metric. This project showcases how data-driven insights can help evaluate player contributions to their team's success.
+This project focused on projecting MLB players' Wins Above Replacement (WAR), a key statistic for evaluating player contributions to team success. Using historical player data sourced from Baseball Reference and FanGraphs via the PyBaseball library, I applied ridge regression models to forecast future WAR values. The model incorporated multiple factors like batting statistics, fielding performance, and prior WAR results, resulting in highly accurate projections. The project’s purpose was to aid teams in predicting player contributions and optimizing roster decisions based on anticipated performance trends. This tool can serve general managers, coaches, and analysts during player contract negotiations or trades.
 <br><br>
-*Key Skills: Python, Scikit-learn, PyBaseball, pandas* <br><br>
-<br>
-![WAR Predictions](/assets/img/WAR_predictions.png) <br>
+
+![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
 Highlights: <br>
-- Built ridge regression models to predict MLB player WAR with high accuracy
-- Extracted player statistics from Baseball Reference and FanGraphs
-- Provided reliable predictions that can assist in player performance evaluation
+- Developed a model capable of predicting player WAR within 0.2 standard deviation
+- Integrated data from multiple sources to create a holistic picture of player performance
+- Produced valuable insights for team decision-makers to assesss future player contributions
+<br><br>
+
+![Speed-Off-Bat-2](/assets/img/Speed-Off-Bat-2.png) <br>
 <br><br>
 
 To find out more about the project, please visit: [Link Here](https://github.com/PingChang1999/Predicting-Player-WAR/blob/main/Predicting_Player_WAR.ipynb) <br><br>
@@ -61,8 +65,7 @@ To find out more about the project, please visit: [Link Here](https://github.com
 **Projecting True Average Speed-Off-Bat**<br><br>
 In this project, I addressed the challenge of discrepancies between measurement systems used to record batted ball data, specifically the speed-off-bat metric. By applying a combination of a weighted mean difference approach and linear regression, I developed models that adjusted speed readings across systems to produce an accurate, unified estimate of the true average speed-off-bat for each player. This approach accounted for system biases based on hit type (ground balls, line drives, fly balls, popups) and launch angle. The integration of machine learning helped refine the relationship between key variables and provided more reliable estimates. The adjusted speeds offer a more accurate metric for evaluating hitter performance and allow better comparisons across different measurement tools.
 <br><br>
-*Key Skills: Python, Scikit-learn, PyBaseball, pandas* <br><br>
-<br>
+
 ![Speed-Off-Bat](/assets/img/Speed-Off-Bat.png) <br><br>
 Highlights: <br>
 - Developed accurate models using linear regression and weighted mean differences to address discrepancies between measurement systems
